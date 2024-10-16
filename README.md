@@ -1,1 +1,1 @@
-# ExpensesTracker
+# 🪙 About Money Expenses Tracker
