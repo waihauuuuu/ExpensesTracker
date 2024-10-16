@@ -9,3 +9,5 @@ In this project, I involved in frontend, backend, and database development.
 ![CSV](https://img.shields.io/badge/CSV-%232F7A3D.svg?logo=csv&logoColor=white) 
 
 Reminder: Use Visual Studio 2022 IDE to open the Money Expenses Tracker project.
+
+Collaborator: @NicholasBearJun
