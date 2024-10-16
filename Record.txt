@@ -1,0 +1,20 @@
+2023-11-13 100 Income n/a
+2023-11-13 200 Expenses niceee
+2023-11-13 500 Expenses da sha bi
+2023-06-05 300 Income cute
+2023-11-13 250 Income n/a
+2023-06-05 400 Expenses wah very high expensessss
+2023-11-13 100 Income hehe boii
+2023-01-05 200 Expenses testing
+2023-02-05 350 Expenses testing
+2023-03-05 600 Expenses testing
+2023-04-05 740 Expenses testing
+2023-05-05 320 Expenses testing
+2023-07-05 430 Expenses testing
+2023-08-05 130 Expenses testing
+2023-09-05 530 Expenses testing
+2023-10-05 610 Expenses testing
+2023-12-05 240 Expenses testing
+2022-12-05 4000 Expenses testing
+2021-12-05 6780 Expenses testing
+2023-11-15 700 Expenses ah shettt too high expenses
