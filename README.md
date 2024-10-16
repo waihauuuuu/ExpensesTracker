@@ -11,4 +11,4 @@ In this project, I involved in frontend, backend, and database development.
 Reminder: Use Visual Studio 2022 IDE to open the Money Expenses Tracker project.
 
 ## Collaborator:
-[@NicholasBearJun] (https://github.com/NicholasBearJun) 
+[@NicholasBearJun](https://github.com/NicholasBearJun) 
