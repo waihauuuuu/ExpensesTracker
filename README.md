@@ -1,5 +1,6 @@
 ## 🪙 About Money Expenses Tracker
 > Money Expenses Tracker is a Group Assign for course TEB1013 Structured Programming in [Universiti Teknologi PETRONAS](https://www.utp.edu.my/Pages/Home.aspx).
+
 The Money Expenses Tracker is a console application that helps individuals manage their finances by tracking income and expenses. It enables users to understand their spending habits, make informed financial decisions, and plan for future expenses effectively.
 
 ## 🧑‍💼 My Role in Money Expenses Tracker
